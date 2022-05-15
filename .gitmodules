@@ -1,0 +1,3 @@
+[submodule "pages/blog"]
+	path = pages/blog
+	url = https://github.com/mo3taz-mo/blog_submodule.git
